@@ -1,5 +1,5 @@
 <h1 align="center">Hi guys, I'm Enzo Danner ✌️</h1>
-- 📫 How to reach me <strong>enzoidanner@gmail.com</strong>strong>
+- 📫 How to reach me <strong>enzoidanner@gmail.com</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
