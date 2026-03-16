@@ -11,6 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezodan&show_icons=true&locale=en&layout=compact" alt="ezodan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezodan&show_icons=true&locale=en" alt="ezodan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezodan&" alt="ezodan" /></p>
